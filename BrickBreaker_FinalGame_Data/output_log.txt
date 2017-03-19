@@ -1,0 +1,41 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     1632 MB
+    Driver:   9.17.10.4459
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.219 seconds
+Platform assembly: C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MECHES\Documents\Programas en JAVA (UVG)\BrickBreaker\BrickBreaker_FinalGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.028977 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.948184 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 633.
+Total: 0.300756 ms (FindLiveObjects: 0.044176 ms CreateObjectMapping: 0.019187 ms MarkObjects: 0.222220 ms  DeleteObjects: 0.014279 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.490402 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.340024 ms (FindLiveObjects: 0.042391 ms CreateObjectMapping: 0.040160 ms MarkObjects: 0.201694 ms  DeleteObjects: 0.054439 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1054 -> priority: 1 
