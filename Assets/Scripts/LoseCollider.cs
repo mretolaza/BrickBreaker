@@ -1,6 +1,6 @@
 ﻿//María Mercedes Retolaza Reyma, 16339 
 //Plataformas Moviles y Video Juegos, Sección: 10  
-//Descripcion de la clase: Aqui se intercambian las escenas para identificar los niveles en los que va el jugador 
+//Descripcion de la clase: Evalua las colisiones  
 using UnityEngine;
 using System.Collections;
 

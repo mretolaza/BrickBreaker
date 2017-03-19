@@ -1,4 +1,6 @@
-﻿
+﻿//María Mercedes Retolaza Reyma, 16339 
+//Plataformas Moviles y Video Juegos, Sección: 10  
+//Descripcion de la clase: Trabaja el movimiento de la raqueta en el juego  
 using UnityEngine;
 using System.Collections;
 
