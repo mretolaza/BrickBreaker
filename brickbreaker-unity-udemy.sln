@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C9A37C38-38F2-925B-FC45-488D6695E5A7}") = "brickbreaker-unity-udemy", "Assembly-CSharp.csproj", "{38DB45F5-C6B1-8678-8E8B-3BB1B8FEF25C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DB45F5-C6B1-8678-8E8B-3BB1B8FEF25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DB45F5-C6B1-8678-8E8B-3BB1B8FEF25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DB45F5-C6B1-8678-8E8B-3BB1B8FEF25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DB45F5-C6B1-8678-8E8B-3BB1B8FEF25C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
